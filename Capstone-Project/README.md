@@ -1,0 +1,1 @@
+The Capstone project work for the IBM data science professional certificate course through coursera. This project involves analysing SpaceX Falcon 9 launch data to predict whether the 1st stage rocket will/can be reused.
